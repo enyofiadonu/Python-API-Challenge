@@ -1,5 +1,5 @@
 # Python-API-Challenge
-This repository contains scripts the utilizes OpenWeatherMap API and Google Places API to do common statistical analysis on the weather of a list of randomly genarated cities. Then it searches for ideal cities with specific weather criteria, and finds the closest hotel near those cities. This repository is a great excersize for APIs and JSONs
+This repository contains scripts the utilizes OpenWeatherMap API and Google Places API to do common statistical analysis on the weather of a list of randomly genarated cities. Then it searches for ideal cities with specific weather criteria, and finds the closest hotel near those cities. This repository is a great excersize for APIs and JSONs.
 
 WARNING: before you download and run this repository, you will need to get and API key from OpenWeatherMap and Google Places, and put them into a python script named 'api_keys' in this format: 
        
